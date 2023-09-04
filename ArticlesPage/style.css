@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.page-1 {
+    background-color: #225db0;
+    height: 70vh;
+    width: 35vw;
+    background-size: cover;
+}
+
+.page h1 {
+    color: white;
+    font-family: Roboto;
+    padding-top: 50px;
+    margin-left: 35px;
+}
+
+.page p {
+    color: white;
+    font-family: Roboto;
+    margin-left: 35px;
+}
+
+.box1 {
+    background-color: white;
+    border-radius: 10px;
+    width: 10vw;
+    height: 15vh;
+    margin-left: 40px;
+    padding: 15px;
+    margin-bottom: 40px;
+}
+
+.box2 {
+    background-color: white;
+    border-radius: 10px;
+    width: 10vw;
+    height: 15vh;
+    margin-left: 40px;
+    padding: 15px;
+}
+
+.box3 {
+    background-color: white;
+    border-radius: 10px;
+    width: 10vw;
+    height: 15vh;
+    margin-left: 40px;
+    padding: 15px;
+}
+
+.box4 {
+    background-color: white;
+    border-radius: 10px;
+    width: 10vw;
+    height: 15vh;
+    margin-left: 40px;
+    padding: 15px;
+}
+
+.box1 img {
+    height: 5vh;
+    width: 5vw;
+    margin-left: 25px;
+}
+
+.box2 img {
+    height: 5vh;
+    width: 5vw;
+    margin-left: 25px;
+}
+
+.box3 img {
+    height: 5vh;
+    width: 5vw;
+    margin-left: 25px;
+}
+
+.box4 img {
+    height: 5vh;
+    width: 5vw;
+    margin-left: 25px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.carouselslide {
+    height: 15vh;
+    width: 15vw;
+    margin: 0px 22px 0px 22px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+}
+
+.page-2 {
+    background-color: #225db0;
+    height: 70vh;
+    width: 30vw;
+    background-size: cover;
+}
+
+.topics h2 {
+    color: white;
+    margin-left: 22px;
+    font-family: Roboto;
+}
+
+.topics li {
+    color: white;
+    margin-left: 22px;
+    font-family: Roboto;
+}
+
+.btn {
+    border-style: solid;
+    border-color: white;
+    margin-left: 150px;
+}
+
+.page-3 {
+    background-color: #225db0;
+    height: 70vh;
+    width: 30vw;
+    background-size: cover;
+}
+
+.page-4 {
+    background-color: #225db0;
+    height: 70vh;
+    width: 30vw;
+    background-size: cover;
+}
+
+.page-5 {
+    background-color: #225db0;
+    height: 70vh;
+    width: 30vw;
+    background-size: cover;
+}
